@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Birthday Wish</string>
+    <string name="message">Wish Someone A Happy Birthday</string>
+    <string name="name">Name</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="click_to_wish">Click To WISH</string>
+    <string name="happpy_birthday">Happpy Birthday</string>
+    <string name="gift_wish">Gift</string>
+    <string name="enter_a_gift">Enter gift</string>
+    <string name="gift_message">Enter below a birthday Gift</string>
+</resources>
