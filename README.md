@@ -1,1 +1,1 @@
-# -HacktoberFest_2021_Kotlin_App-Birthday-Wish
+# -HacktoberFest_2022_Kotlin_App-Birthday-Wish
